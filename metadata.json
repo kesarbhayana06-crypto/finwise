@@ -1,0 +1,6 @@
+{
+  "name": "FINWISE 2.0",
+  "description": "Your Money. Your Future. Your Power. AI-powered financial literacy, smart budgeting, habit simulation, and scam awareness for students and young adults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
